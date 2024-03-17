@@ -1,4 +1,4 @@
-<h2>🔭 Some general information about me</h2>
+<h2>🔭 About me</h2>
 
 - 👋 I'm Pham Viet Hai, currently a student of HEDSPI program at Hanoi University of Science and Technology.
 
