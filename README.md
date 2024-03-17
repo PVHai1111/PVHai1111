@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <br>
-<h3>🤖 Machine learning</h3>
+<h3>🤖 AI</h3>
 <br>
 <div align="left">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
