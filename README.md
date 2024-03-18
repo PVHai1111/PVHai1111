@@ -4,7 +4,7 @@
 
 - 💡 I am passionate about staying updated with the latest technologies and trends in the field, and I aim to continuously learn and grow as a developer.  
 
-- 🎯 Currently, I'm focusing on learning how to understand and apply AI algorithms into my apllications and improving my web developing skill.
+- 🎯 I'm focusing on learning how to understand and apply AI algorithms into my apllications and improving my web developing skill.
 
 
 <h2>🎓 Skills</h2>
