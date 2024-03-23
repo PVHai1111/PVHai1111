@@ -69,6 +69,6 @@
 <h2>📫 Contact me</h2>
 
 <div align="left">
-    <a href="https://www.facebook.com/nerdy.keishi/](https://www.facebook.com/profile.php?id=100070935517615&mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=100070935517615&mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://mail.google.com/mail/u/0/#search/pvhmain2k3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
